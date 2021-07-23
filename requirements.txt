@@ -7,5 +7,4 @@ PyJWT
 pyotp
 qrcode
 requests
-requests
-requests
+
