@@ -5,5 +5,5 @@ geoip2
 jsonschema
 PyJWT
 pyotp
-
+qrcode
 requests
