@@ -8,3 +8,4 @@ pyotp
 qrcode
 requests
 requests
+requests
